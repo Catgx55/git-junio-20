@@ -1,3 +1,5 @@
 Clase
 Estudiando fuerte con protalento
 en clase de git
+
+Estamos aprendiendo como subir un repositorio local a uno remoto
